@@ -1,9 +1,3 @@
-If you don't have `.bashrc` or `.zshrc` files, you can create them. Here are the steps to create these files and add `/usr/local/bin` to your `PATH` permanently:
-
-### Creating and Editing `.bashrc`
-
-1. **Create the `.bashrc` file**:
-
 # 🚀 nixi
 
 ## What is nixi? 🤔
